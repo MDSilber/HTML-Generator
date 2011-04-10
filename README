@@ -1,0 +1,1 @@
+names.txt and games.txt are args[0] and args[1] respectively. Run the program with those as the command line arguments, and the program will generate an HTML file with the standings and an HTML file for each player. The scoring is based on the ELO algorithm.
